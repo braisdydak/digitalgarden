@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-egor/01-egor/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-egor/01-egor/"}
 ---
 
 Egor es mi mundo de fantasía para desarrollar mi creatividad y poder usarlo en campañas de dnd.
