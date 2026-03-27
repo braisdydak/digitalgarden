@@ -4,9 +4,9 @@
 
 Glosario de términos básicos para entender la vida en el [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]].
 ## Aventureros
-Individuos que aceptan encargos peligrosos a cambio de recompensa. Suelen operar de forma independiente o bajo el amparo de un gremio como la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]].
+Individuos que aceptan encargos peligrosos a cambio de recompensa. Suelen operar de forma independiente o bajo el amparo de un gremio como la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]].
 ## Gremios
-Organizaciones que gestionan encargos, reputación y contratos. En [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Darsen w\|Darsen w]], el único gremio de aventureros activo es la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]].
+Organizaciones que gestionan encargos, reputación y contratos. En [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Darsen w\|Darsen w]], el único gremio de aventureros activo es la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]].
 ## Ruinas antiguas
 Restos de civilizaciones pasadas. Suelen contener artefactos valiosos, pero también peligros difíciles de comprender. Las más notables del [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]] son obra de una civilización anterior llamada los Valdren.
 ## Rumores

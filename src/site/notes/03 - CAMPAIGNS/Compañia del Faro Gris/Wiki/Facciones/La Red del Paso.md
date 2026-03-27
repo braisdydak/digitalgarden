@@ -11,7 +11,7 @@ La Red del Paso es el nombre que se usa, en voz baja, para referirse a la red de
 
 La Red del Paso no es violenta por naturaleza. Prefiere la discreción, los acuerdos implícitos y la presión silenciosa. Cuando alguien interfiere con sus operaciones, los problemas aparecen con una puntualidad inquietante.
 
-El [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Consejo de Darsen w\|Consejo de Darsen w]] coexiste con la Red de la misma manera que coexiste con la guarnición de Arenthal: con la boca cerrada y los ojos mirando hacia otro lado, porque las alternativas son peores.
+El [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Consejo de Darsen)\|(Consejo de Darsen)]] coexiste con la Red de la misma manera que coexiste con la guarnición de Arenthal: con la boca cerrada y los ojos mirando hacia otro lado, porque las alternativas son peores.
 
 ## Figura visible: Darna Sesk
 

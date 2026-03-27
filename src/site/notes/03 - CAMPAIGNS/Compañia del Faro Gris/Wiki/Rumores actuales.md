@@ -32,7 +32,7 @@ Estos son los rumores que circulan actualmente por las tabernas y mercados de [[
 ---
 
 > [!tip] La llama del gremio
-> Varios vecinos de la Ciudad Alta comentan que la llama gris de la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]] parece distinta últimamente. No saben decir exactamente en qué. Solo que antes era más... constante.
+> Varios vecinos de la Ciudad Alta comentan que la llama gris de la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]] parece distinta últimamente. No saben decir exactamente en qué. Solo que antes era más... constante.
 
 ---
 
@@ -40,4 +40,4 @@ Estos son los rumores que circulan actualmente por las tabernas y mercados de [[
 > Algunos apuntan a eventos aislados. Otros sugieren que algo más grande está ocurriendo. Pocos están dispuestos a investigarlo. Pero siempre hay quien acepta el encargo adecuado.
 
 ## Ver también
-[[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/El Faro Valdren w\|El Faro Valdren w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]]
+[[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/El Faro Valdren w\|El Faro Valdren w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]]

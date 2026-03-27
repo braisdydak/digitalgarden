@@ -6,7 +6,7 @@ El Tratado de Paso de Mervaine es el acuerdo diplomático firmado hace ochenta a
 
 ## Términos principales
 
-El Tratado declaró el Corredor zona neutral de administración local, con derecho de paso garantizado para ambas potencias a cambio de contribuciones económicas periódicas al [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Consejo de Darsen w\|Consejo de Darsen w]]. Fue negociado en [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Darsen w\|Darsen w]] porque ninguna de las partes quería ceder terreno viajando a territorio enemigo.
+El Tratado declaró el Corredor zona neutral de administración local, con derecho de paso garantizado para ambas potencias a cambio de contribuciones económicas periódicas al [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Consejo de Darsen)\|(Consejo de Darsen)]]. Fue negociado en [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Darsen w\|Darsen w]] porque ninguna de las partes quería ceder terreno viajando a territorio enemigo.
 
 ## Estado actual
 
@@ -18,4 +18,4 @@ El Consejo de Darsen hace la vista gorda en ambos casos, porque las alternativas
 > "Mervaine" no corresponde a ningún lugar identificable en el Corredor. Algunos historiadores creen que era el apellido del mediador neutral que facilitó las negociaciones.
 
 ## Ver también
-[[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Darsen w\|Darsen w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Consejo de Darsen w\|Consejo de Darsen w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Dominio de Arenthal w\|Dominio de Arenthal w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Tierras Libres de Osken w\|Tierras Libres de Osken w]]
+[[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Darsen w\|Darsen w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Consejo de Darsen)\|(Consejo de Darsen)]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Dominio de Arenthal w\|Dominio de Arenthal w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Tierras Libres de Osken w\|Tierras Libres de Osken w]]

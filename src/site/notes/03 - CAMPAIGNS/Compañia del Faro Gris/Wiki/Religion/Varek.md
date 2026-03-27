@@ -11,11 +11,11 @@ Incumplir ese acuerdo, abandonar una misión sin causa justificada o cobrar sin 
 
 ## Símbolo
 
-Una balanza con una moneda en un plato y la herramienta del oficio del devoto en el otro. En la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]], la balanza lleva una antorcha en lugar de una espada.
+Una balanza con una moneda en un plato y la herramienta del oficio del devoto en el otro. En la [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]], la balanza lleva una antorcha en lugar de una espada.
 
 ## Presencia en Darsen
 
 Varek no tiene templo en Darsen. Sus puntos de devoción son los tablones de encargos. El tablón de la Compañía del Faro Gris tiene en su esquina superior izquierda una pequeña balanza tallada en madera que lleva allí desde los tiempos de su fundadora, Maren Duss.
 
 ## Ver también
-[[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Religion/Sorveth y Caveth\|Sorveth y Caveth]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Religion/Deidades del mundo\|Deidades del mundo]]
+[[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Religion/Sorveth y Caveth\|Sorveth y Caveth]] | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Religion/Deidades del mundo\|Deidades del mundo]]

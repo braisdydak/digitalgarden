@@ -7,7 +7,7 @@
 |---|---|
 | ***Tamaño:*** | Ciudad (~8.000 hab. permanentes) |
 | ***Región:*** | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]] |
-| ***Gobierno:*** | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Consejo de Darsen w\|Consejo de Darsen w]] |
+| ***Gobierno:*** | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Consejo de Darsen)\|(Consejo de Darsen)]] |
 
 Darsen es la ciudad principal del [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Corredor de Valdren w\|Corredor de Valdren w]] y el punto de paso más importante entre el [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Dominio de Arenthal w\|Dominio de Arenthal w]] y las [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Tierras Libres de Osken w\|Tierras Libres de Osken w]]. Es más pequeña de lo que sus murallas sugieren — hay barrios enteros que se despoblaron durante las últimas guerras y nunca se volvieron a llenar.
 
@@ -19,7 +19,7 @@ Hace ochenta años el [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Trata
 
 ## La ciudad hoy
 
-**Ciudad Alta** — el corazón amurallado, sobre la meseta. Sede del [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Consejo de Darsen w\|Consejo de Darsen w]], la guarnición de Arenthal, los templos y las casas de los comerciantes establecidos. Puertas cerradas a medianoche.
+**Ciudad Alta** — el corazón amurallado, sobre la meseta. Sede del [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Consejo de Darsen)\|(Consejo de Darsen)]], la guarnición de Arenthal, los templos y las casas de los comerciantes establecidos. Puertas cerradas a medianoche.
 
 **Ciudad Baja** — al pie de la muralla, irregular y caótica. Los mercados diarios, las posadas, los almacenes. Sin horario de cierre.
 
@@ -35,8 +35,8 @@ Hace ochenta años el [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Trata
 
 | Facción | Tipo |
 |---|---|
-| [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Consejo de Darsen w\|Consejo de Darsen w]] | Gobierno local |
-| [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Compania del Faro Gris w\|Compania del Faro Gris w]] | Gremio de aventureros |
+| [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Consejo de Darsen)\|(Consejo de Darsen)]] | Gobierno local |
+| [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/(Compania del Faro Gris)\|(Compania del Faro Gris)]] | Gremio de aventureros |
 | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/Hermanos del Umbral\|Hermanos del Umbral]] | Orden religiosa/arcana |
 | [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Facciones/La Red del Paso\|La Red del Paso]] | Intereses comerciales en los márgenes |
 | Guarnición de [[03 - CAMPAIGNS/Compañia del Faro Gris/Wiki/Region/Dominio de Arenthal w\|Arenthal]] | Militar |
